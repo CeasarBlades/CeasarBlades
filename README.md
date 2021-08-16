@@ -8,14 +8,14 @@ My background is diverse I'm a Pilot by profession, and also serving in the mili
 ## Software and Blockchain Developer
 
 Skills: 
-JS / HTML / CSS/ REACT/ PYTHON/ SOLIDITY/ SMART CONTRACTS/ CYBERSECURITY.
+JS/ HTML/ CSS/ REACT/ REDUX/ PYTHON/ SOLIDITY/ SMART CONTRACTS/ CYBERSECURITY.
 
 
 ## Projects and Features.
 
 
 - 🔭 I’m currently working on building Blockchain projects. 
-- 🌱 I’m also completing my post-graduate in Cybersecurity, Ethical Hacking, Digital Encryption, and Digital Forensic.   
+- 🌱 I’m also completing my graduate-dip in Cybersecurity, Ethical Hacking, Digital Encryption, and Digital Forensic.   
 - 👯 I’m looking to collaborate on Blockchain Projects, Smart Contracts  
 - 💬 Ask me about anything to do with the Blockchain. 
 - 📫 How to reach me: saula.atama@gmail.com 
