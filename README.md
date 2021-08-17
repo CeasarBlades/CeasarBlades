@@ -11,6 +11,10 @@ Skills:
 JS/ HTML/ CSS/ REACT/ REDUX/ PYTHON/ SOLIDITY/ SMART CONTRACTS/ CYBERSECURITY.
 
 
+
+
+
+
 ## Projects and Features.
 
 
